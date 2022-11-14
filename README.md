@@ -1,5 +1,6 @@
-<h1 align=center>Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Arnab Biswas</h1>
 <img align=right alt="Coding" width="400" src="./icon/sidegif.gif">
+<h1 align=center>Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Arnab Biswas</h1>
+
 <h3 align=center>I'm a passionate Backend Developer from India.</h3>
 
 ## 🙋‍♂️ About Me
@@ -32,16 +33,16 @@
   <br/>
 </p>
 
-<p align=left>
+<p align=right>
 
 ## Connect with me:
 <a target="_blank" href = "https://www.linkedin.com/in/arnabb1swas"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a target="_blank" href = "https://linktr.ee/arnabbiswas"><img src="https://img.icons8.com/fluent/48/000000/link.png"/></a>
 
-## ❤ Views and Followers
+ ## ❤ Views and Followers
 <a target="_blank" href="https://github.com/arnab-toddleapp/">
     <img src="https://komarev.com/ghpvc/?username=arnab-toddleapp&style=flat-square">
 </a>
 <a target="_blank" href="https://github.com/arnab-toddleapp?tab=followers"><img src="https://img.shields.io/github/followers/arnab-toddleapp?label=Followers&style=social" alt="GitHub Badge"></a>
-
+ 
 </p>
