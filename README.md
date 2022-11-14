@@ -1,4 +1,5 @@
 <h1 align=center>Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Arnab Biswas</h1>
+<img align=right alt="Coding" width="400" src="./icon/sidegif.gif">
 <h3 align=center>I'm a passionate Backend Developer from India.</h3>
 
 ## 🙋‍♂️ About Me
@@ -30,8 +31,6 @@
     <img title="Arnab Biswas's streak" alt="arnabb1swas's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=arnab-toddleapp&count_private=true&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
   <br/>
 </p>
-
-<img align=right alt="Coding" width="400" src="./icon/bg.gif">
 
 <p align=left>
 
