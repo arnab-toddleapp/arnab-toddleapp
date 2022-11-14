@@ -11,8 +11,10 @@
 
 - 📫 How to reach me **arnab@toddleapp.com**
 
-- ⚡ Fun fact **I play multiplayer games and read Mangas.**
+- ⚡ Fun fact **I play multiplayer games, read Mangas and watch anime.**
 
+<a target="_blank" href = "https://www.linkedin.com/in/arnabb1swas"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a target="_blank" href = "https://linktr.ee/arnabbiswas"><img src="https://img.icons8.com/fluent/48/000000/link.png"/></a>
 
 ## 📊 My Github Stats
 
@@ -31,18 +33,4 @@
   <br/>
     <img title="Arnab Biswas's streak" alt="arnabb1swas's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=arnab-toddleapp&count_private=true&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
   <br/>
-</p>
-
-<p align=right>
-
-## Connect with me:
-<a target="_blank" href = "https://www.linkedin.com/in/arnabb1swas"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a target="_blank" href = "https://linktr.ee/arnabbiswas"><img src="https://img.icons8.com/fluent/48/000000/link.png"/></a>
-
- ## ❤ Views and Followers
-<a target="_blank" href="https://github.com/arnab-toddleapp/">
-    <img src="https://komarev.com/ghpvc/?username=arnab-toddleapp&style=flat-square">
-</a>
-<a target="_blank" href="https://github.com/arnab-toddleapp?tab=followers"><img src="https://img.shields.io/github/followers/arnab-toddleapp?label=Followers&style=social" alt="GitHub Badge"></a>
- 
 </p>
